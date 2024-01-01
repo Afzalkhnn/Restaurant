@@ -1,0 +1,38 @@
+.nav{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: whitesmoke;
+}
+.heading h1{
+color: rgb(251, 94, 3);
+font-size: 20px;
+padding: 10px 10px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    margin-left: 60%;
+    
+}
+.link ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    
+}
+  li{
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    list-style: none;
+    text-decoration: none;
+}
+.Link ul li{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    list-style: none;
+    border: none;
+}
